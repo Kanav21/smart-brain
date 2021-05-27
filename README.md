@@ -1,6 +1,1 @@
-# SmartBrain - v2
-Final project for ZTM course
-
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+Checkout the backend project files of Smart-Brain at https://github.com/Kanav21/smartbrain-api
